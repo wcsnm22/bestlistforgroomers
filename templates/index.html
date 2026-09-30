@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{lang}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google" content="notranslate">
+  <title>{{title}}</title>
+  {{head}}
+</head>
+<body>
+  <header class="site"><div class="wrap">
+    <div class="brand">{{brand}}</div>
+    <nav class="crumbs">{{nav}}</nav>
+  </div></header>
+  <main class="wrap">
+    <section class="hero">
+      <h1>Pet grooming tools, answered on the first screen</h1>
+      <p class="lede">{{tagline}}</p>
+      <div class="answer">
+        <p><strong>Lowest price printed today:</strong> Wahl's own store lists a hair clipper blade oil at $5.99, a waterless no-rinse dog shampoo at $7.99 and six dog shampoo formulas at $9.99, with dog grooming hand tools at $11.99 (nail clipper, slicker brush, shedding blade, comb) - all read 2026-09-30.</p>
+        <p><strong>Cheapest clipper / top clipper price:</strong> Andis prints $39.99 for the Easy Clip Starter Kit and climbs to $239.99 for the EMERGE Lite Clipper; Wahl prints clippers from $29.99 up to $149.99 for the Pet-Pro Metal Corded Clipper Kit. Both stores were read on 2026-09-30.</p>
+        <p><strong>Shampoo and brushes:</strong> TropiClean's official collection shows 73 results with 20oz shampoos at $13.99-$16.99 against struck-through regular prices; Chris Christensen's brushes run from $24.00 (Tiny Tot Wood Pin Brush) up to from $72.50 (Andreas Brushes), with 'Free Shipping on orders over $50. Was $100. Use Code: FREESHIP50.'</p>
+        <p><strong>Two brands publish no price:</strong> XPOWER's pet dryers (220 CFM, 4.5 hp, 2-stage heat on the B-123) and Nature's Miracle's grooming lines print specs and product names but no dollar figures - both route buyers to 'WHERE TO BUY', so this site reports them as not published instead of estimating.</p>
+        <p class="muted">Every line above is sourced in the tables below and on each brand page, with the official URL and check date (all read 2026-09-30). Prices come straight from each brand's own store in USD - no conversion, no comparison-site figures, and nothing subtracted between brands.</p>
+      </div>
+    </section>
+
+    <h2>The six brands at a glance</h2>
+    <div class="grid">{{cards}}</div>
+
+    <h2>Facts with sources</h2>
+    <table>
+      <thead><tr><th>Fact</th><th>Condition to get it</th><th>Official source page</th><th>Checked</th></tr></thead>
+      <tbody>{{fact_table_rows}}</tbody>
+    </table>
+
+    <h2>FAQ</h2>
+    {{faqs}}
+
+    <footer class="site">{{footer}}</footer>
+  </main>
+</body>
+</html>

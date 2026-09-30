@@ -1,0 +1,610 @@
+{
+ "site": {
+  "name": "Groomers Choice",
+  "tagline": "Best tools to keep your pet clean, comfortable and stylish: six grooming brands priced on their own official stores - Andis and Wahl clippers, TropiClean shampoo, Chris Christensen brushes, XPOWER dryers and Nature's Miracle grooming lines - with every fact read from the brand's own page and shown with its source URL and check date.",
+  "base_url": "https://bestlistforgroomers.pages.dev",
+  "locale": "en-US",
+  "checked": "2026-09-30",
+  "repo": "https://github.com/wcsnm22/bestlistforgroomers"
+ },
+ "home_facts": [
+  {
+   "fact": "Wahl prints its whole pet grooming catalog with prices, from a $5.99 hair clipper blade oil and $7.99 waterless no-rinse dog shampoo up to a $149.99 Pet-Pro Metal Corded Clipper Kit, and banners 'FREE SHIPPING ON ORDERS $25+'.",
+   "condition": "Read from wahlusa.com's all-products pet grooming page on the check date; the blade replacement set at $16.00 was printed as OUT OF STOCK.",
+   "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+   "checked": "2026-09-30"
+  },
+  {
+   "fact": "Andis prints pet clipper prices from a $39.99 Easy Clip Starter Kit to a $239.99 EMERGE Lite Clipper (Global Versions), with 'FREE SHIPPING ON ORDERS $50+'.",
+   "condition": "Prices as printed beside each product on andis.com's At-Home Pet grooming-clippers page on the check date; every item listed there showed 'In Stock'.",
+   "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+   "checked": "2026-09-30"
+  },
+  {
+   "fact": "TropiClean's shampoo collection shows 73 results with sale prices such as $13.99 for Oatmeal + Tea Tree Medicated Itch Shampoo 20oz (was $16.99) and $16.99 for Papaya + Coconut Shampoo & Conditioner 20oz (was $19.99), plus 'FREE Standard Shipping on Orders $22+'.",
+   "condition": "Sale price and struck-through regular price as printed in the collection grid on the check date; the page also prints $45.97 for a Dog Grooming Kit bundle against $55.97.",
+   "source_url": "https://www.tropiclean.com/collections/shampoos",
+   "checked": "2026-09-30"
+  },
+  {
+   "fact": "Chris Christensen's brushes collection prints prices from a $24.00 Tiny Tot Wood Pin Brush to from $72.50 for Andreas Brushes, with a banner 'Free Shipping on orders over $50. Was $100. Use Code: FREESHIP50.'",
+   "condition": "'from' prices mean the brush is sold in several sizes; sale and stock lines were printed beside each product on the check date.",
+   "source_url": "https://www.chrischristensen.com/collections/brushes",
+   "checked": "2026-09-30"
+  },
+  {
+   "fact": "XPOWER prints no price on its pet dryer pages: the B-123 High Velocity Pet Dryer page lists 220 CFM, a 4.5 hp motor, variable speed, 2-stage heat, an 8 ft hose and 3 nozzles, and routes buyers to 'WHERE TO BUY'.",
+   "condition": "Spec bullets read from the official product page on the check date; no dollar figure appears anywhere on that page.",
+   "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+   "checked": "2026-09-30"
+  },
+  {
+   "fact": "Nature's Miracle prints its grooming line - Shampoo & Conditioner, Odor Control Shampoo & Conditioner, Hypoallergenic Shampoo & Conditioner and Deodorizing Bath Wipes - with no prices, routing buyers to 'WHERE TO BUY'.",
+   "condition": "Read from the official homepage on the check date; the site's nav offers Products, Where to Buy, FAQs and Contact Us but no store.",
+   "source_url": "https://www.naturesmiracle.com/",
+   "checked": "2026-09-30"
+  }
+ ],
+ "home_faqs": [
+  {
+   "q": "What is the lowest price any of these six brands prints today?",
+   "a": "Wahl's own pet grooming store prints the lowest figure: a hair clipper blade oil at $5.99, then a waterless no-rinse dog shampoo at $7.99 and six dog shampoo formulas at $9.99. The cheapest grooming tool is that $9.99 shampoo or a $11.99 dog nail clipper, and the cheapest clipper is Andis's Easy Clip Starter Kit at $39.99. All read on 2026-09-30.",
+   "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+   "checked": "2026-09-30"
+  },
+  {
+   "q": "Which of these brands publish prices on their own site?",
+   "a": "Four do: Andis, Wahl, TropiClean and Chris Christensen all print prices in their own stores. Two do not: XPOWER and Nature's Miracle print product facts but no dollar figures, and both route buyers to a 'WHERE TO BUY' step instead - so this site reports 'not published on the official site' for them rather than guessing a price.",
+   "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+   "checked": "2026-09-30"
+  },
+  {
+   "q": "Do the official stores offer free shipping?",
+   "a": "Three publish a threshold: Andis prints 'FREE SHIPPING ON ORDERS $50+', Wahl prints 'FREE SHIPPING ON ORDERS $25+', and TropiClean prints 'FREE Standard Shipping on Orders $22+'. Chris Christensen prints 'Free Shipping on orders over $50. Was $100. Use Code: FREESHIP50.' - so its $50 threshold is conditional on that code.",
+   "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+   "checked": "2026-09-30"
+  },
+  {
+   "q": "Are these official prices discounted right now?",
+   "a": "Some are. TropiClean's shampoo grid prints sale prices against struck-through regular prices ($3.00 to $10.00 off on the items read), and Chris Christensen's banner shows a shipping-threshold promotion with the code FREESHIP50. Andis and Wahl printed list prices with no strike-through on the pages read. Promotions change without notice - check the linked page before you buy.",
+   "source_url": "https://www.tropiclean.com/collections/shampoos",
+   "checked": "2026-09-30"
+  },
+  {
+   "q": "How much does a pet clipper cost on the brand's own site?",
+   "a": "Andis prints $39.99 for an Easy Clip Starter Kit, $49.99 to $79.99 for the Dr. Pol Easy Clip line, $119.99 for the enVISION Cordless Clipper Pet, $159.99 for the ProClip 5-in-1 WILD and $239.99 for the EMERGE Lite Clipper. Wahl prints $29.99 for a Touch-Up battery pet clipper, $44.99 for the Pet-Pro corded clipper kit, $54.99 for the Deluxe Pro Series cordless and $149.99 for the Pet-Pro Metal corded clipper kit.",
+   "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+   "checked": "2026-09-30"
+  },
+  {
+   "q": "How were these facts checked?",
+   "a": "Every fact on this site was read from the brand's own official page - its store, product page or policy page - on the date shown next to it, and carries the exact URL it came from. Nothing is taken from a comparison site, and no price is estimated: where a brand does not publish a figure, the page says so.",
+   "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+   "checked": "2026-09-30"
+  }
+ ],
+ "brands": [
+  {
+   "id": "andis",
+   "name": "Andis",
+   "slug": "andis",
+   "official_site": "https://www.andis.com/",
+   "quote_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+   "short_answer": "Andis sells its own pet clippers and trimmers direct on andis.com: the At-Home Pet grooming-clippers page printed 20 different clippers and kits on 2026-09-30, from a $39.99 Easy Clip Starter Kit to a $239.99 EMERGE Lite Clipper, all shown as 'In Stock' with 'FREE SHIPPING ON ORDERS $50+'. The same site also carries Pro Groomer and small-animal grooming lines in its navigation.",
+   "price_line": "$39.99 – $239.99",
+   "price_condition": "Lowest and highest clipper prices printed on andis.com's At-Home Pet grooming-clippers page on 2026-09-30; the page also banners free shipping on orders $50+.",
+   "price_source": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+   "facts": [
+    {
+     "fact": "The Easy Clip Starter Kit is printed at $39.99 - the lowest clipper price on Andis's pet grooming page.",
+     "condition": "Price shown beside the product with an 'In Stock' label on the check date.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The Dr. Pol line prints $49.99 for the Easy Clip Ultra, $59.99 for the Easy Clip Cordless II and $79.99 for the Easy Clip Versa Clipper Kit (Green).",
+     "condition": "Three separate products, each with its own 'In Stock' price on the check date.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The Easy Clip Cordless II - Pink is printed at $54.99, marked NEW!, and the Easy Clip Cordless II Clipper at $54.99 as well.",
+     "condition": "Prices as printed on the check date; the Pink unit carries a NEW! flag.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The Easy Clip Groom Detachable Blade Clipper Kit is printed at $129.99 in Blue and Purple, the enVISION Cordless Clipper Pet at $119.99 and the ProClip 5-in-1 WILD at $159.99 (marked Global Versions).",
+     "condition": "Mid-to-upper price band of the same page, all with 'In Stock' labels on the check date.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The EMERGE Lite Clipper (Blue, Global Versions) is printed at $239.99 - the highest price on the pet grooming page.",
+     "condition": "Price printed beside the product on the check date.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The site banners 'FREE SHIPPING ON ORDERS $50+' on the pet grooming page.",
+     "condition": "Header banner printed on the check date; shipping promotions can change.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Andis's own navigation splits pet grooming into 'At Home Pet' products and a 'Pro Groomer' section with professional animal grooming clippers, trimmers, blades and grooming tools.",
+     "condition": "Menu structure printed on the same official page on the check date; the pro lines are a separate catalog from the priced at-home page.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How much do Andis pet clippers cost on andis.com?",
+     "a": "On 2026-09-30 the pet grooming page printed $39.99 for the Easy Clip Starter Kit, $49.99-$79.99 for the Dr. Pol Easy Clip line, $54.99 for Easy Clip Cordless II clippers, $119.99 for the enVISION Cordless Clipper Pet, $129.99 for the Easy Clip Groom Detachable Blade Kit, $159.99 for the ProClip 5-in-1 WILD and $239.99 for the EMERGE Lite Clipper.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Does andis.com charge for shipping?",
+     "a": "The pet grooming page banners 'FREE SHIPPING ON ORDERS $50+' - so an order under $50 does not qualify for that free-shipping line on the check date. The site does not print a dollar amount for the shipping charge itself on that page.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Are the Andis pet clipper prices discounted?",
+     "a": "No discounts were printed next to the pet clipper prices read on 2026-09-30 - each item showed a single price with an 'In Stock' label. Any promotion that appears later will show on the same product page.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Does Andis sell professional grooming equipment as well as home clippers?",
+     "a": "Its own site separates the two: the page read is the 'At Home Pet' catalog, while the site's menu carries a 'Pro Groomer' section with professional animal grooming clippers, trimmers, blades, grooming tools and equine/livestock products. Prices for those pro lines are not printed on the at-home page.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What is the cheapest Andis pet clipper?",
+     "a": "The Easy Clip Starter Kit at $39.99 was the lowest clipper price printed on the pet grooming page on 2026-09-30 - below the Dr. Pol Easy Clip Ultra at $49.99 and the Easy Clip Cordless II at $54.99.",
+     "source_url": "https://www.andis.com/shop/at-home-pet/grooming-clippers",
+     "checked": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": "wahl",
+   "name": "Wahl",
+   "slug": "wahl",
+   "official_site": "https://wahlusa.com/",
+   "quote_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+   "short_answer": "Wahl's own US store prints prices for its whole pet grooming catalog: blade oil at $5.99, dog shampoos at $9.99, a dog nail clipper and slicker brush at $11.99, battery clippers from $29.99, cordless pet clippers up to $64.99 and the Pet-Pro Metal Corded Clipper Kit at $149.99 - with 'FREE SHIPPING ON ORDERS $25+'. All figures read on 2026-09-30.",
+   "price_line": "$5.99 – $149.99",
+   "price_condition": "Lowest and highest prices printed in the all-pet-products list on wahlusa.com on 2026-09-30, sorted ascending by price on that page.",
+   "price_source": "https://wahlusa.com/pet-grooming-tools/all-products",
+   "facts": [
+    {
+     "fact": "Wahl's all-pet-products page prints a hair clipper blade oil at $5.99 and a waterless no-rinse dog shampoo at $7.99 - the two lowest prices on the page.",
+     "condition": "Prices as printed in the ascending price list on the check date.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Six dog shampoo formulas print at $9.99 each: Gentle Puppy, Four-in-One Calming, Odor Control Purifying, Oatmeal, Whitening Brightening and the standard Dog Shampoo.",
+     "condition": "Each formula is a separate product row with its own price on the check date; waterless no-rinse shampoos print at $7.99.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Grooming hand tools print at $11.99: dog nail clipper, dual level slicker brush, double sided shedding blade, flea/hair pick/finishing comb and Refresh large dog wipes; cleaning mitts and Refresh massive wipes print at $14.99.",
+     "condition": "Individual product rows read from the same list on the check date.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Cordless battery nail grinders print at $32.99 and $39.99, and a touch-up battery pet clipper/trimmer prints at $29.99.",
+     "condition": "Two separate Grind & Smooth nail grinder listings carry different prices on the check date - check the variant before ordering.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Pet clippers climb from $29.99 (Touch-Up battery) to $44.99 (Pet-Pro Corded Clipper Kit, Easy Pro Rechargeable and the Pet Pro grooming combo kit), $54.99 (Deluxe Pro Series Cordless), $58.99 (Pet Pro Series Lithium Ion Cordless), $64.99 (Lithium-Ion Pro Series Kit and Pro-Grip Corded) and $149.99 (Pet-Pro Metal Corded Clipper Kit).",
+     "condition": "Prices as printed beside each product in the all-products list on the check date.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The store banners 'FREE SHIPPING ON ORDERS $25+' at the top of the pet grooming store.",
+     "condition": "Header banner printed on the check date; the site's Terms and Conditions and Shipping-Returns pages govern the detail.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The USA Premium Clipper Blade Replacement Set prints at $16.00 and shows 'OUT OF STOCK' on the check date.",
+     "condition": "Stock label printed on the same row as the price; availability changes.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The pet grooming landing page states that grooming dogs and cats at home 'can save you lots of time and money' and can remove the stress of a vet or groomer visit.",
+     "condition": "Wahl's own copy on its official pet grooming page, read on the check date - a brand claim, not a measured result.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools",
+     "checked": "2026-09-30"
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How much does Wahl pet grooming gear cost?",
+     "a": "On 2026-09-30 Wahl's own store printed $5.99 for blade oil, $7.99 for waterless shampoo, $9.99 for dog shampoos, $11.99 for hand tools such as the dog nail clipper and slicker brush, $29.99-$149.99 for pet clippers, and $32.99/$39.99 for the two cordless nail grinder listings.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What is the cheapest Wahl pet product?",
+     "a": "The hair clipper blade oil at $5.99 was the lowest price printed on the all-pet-products page on 2026-09-30; the cheapest consumable grooming item was the waterless no-rinse dog shampoo at $7.99.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Does wahlusa.com offer free shipping?",
+     "a": "The store banner prints 'FREE SHIPPING ON ORDERS $25+' - so the free-shipping line applies from $25 up on the check date. The page does not print the charge for orders under $25.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Are any Wahl grooming items out of stock?",
+     "a": "Yes - on 2026-09-30 the USA Premium Clipper Blade Replacement Set at $16.00 was printed with an 'OUT OF STOCK' label while the surrounding items showed add-to-cart buttons. Stock is read live from the page and changes.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Does Wahl publish a pet nail grinder price?",
+     "a": "It publishes two: the Grind & Smooth cordless battery pet nail grinder appears twice in the list at $32.99 and $39.99 on 2026-09-30, so compare the variant on the product page before ordering.",
+     "source_url": "https://wahlusa.com/pet-grooming-tools/all-products",
+     "checked": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": "tropiclean",
+   "name": "TropiClean",
+   "slug": "tropiclean",
+   "official_site": "https://www.tropiclean.com/",
+   "quote_url": "https://www.tropiclean.com/collections/shampoos",
+   "short_answer": "TropiClean sells its own grooming shampoo direct: the official shampoo collection showed 73 results on 2026-09-30 with printed sale prices such as $13.99 for a 20oz Oatmeal + Tea Tree Medicated Itch shampoo (was $16.99) and $16.99 for the 20oz Papaya + Coconut Shampoo & Conditioner (was $19.99), plus 'FREE Standard Shipping on Orders $22+'.",
+   "price_line": "$13.99 – $45.97",
+   "price_condition": "Sale prices printed in the shampoo collection grid on 2026-09-30: $13.99 for a 20oz shampoo up to $45.97 for the Dog Grooming Kit bundle; regular prices print struck through beside them.",
+   "price_source": "https://www.tropiclean.com/collections/shampoos",
+   "facts": [
+    {
+     "fact": "The official shampoo collection showed 73 results on the check date.",
+     "condition": "'73 results' is the count printed above the collection grid on 2026-09-30; the grid is filterable by pet, scent and category.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The TropiClean Dog Grooming Kit 'Papaya Pamper Pack' prints at $45.97 against $55.97 with a '$10.00 off' tag - the highest price among the shampoo rows read.",
+     "condition": "Sale price, struck-through regular price and discount tag as printed in the grid on the check date.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Papaya + Coconut Pet Shampoo & Conditioner 20oz prints at $16.99 against $19.99 with a '$3.00 off' tag.",
+     "condition": "As printed in the collection grid on the check date.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Oatmeal + Tea Tree Medicated Itch Pet Shampoo 20oz prints at $13.99 against $16.99, and the Hypoallergenic No Rinse Pet Shampoo 7.4oz also prints at $13.99 against $16.99.",
+     "condition": "Two different products sharing the same sale price on the check date; both carry '$3.00 off' tags.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Hypoallergenic Puppy & Kitten Shampoo 20oz prints at $14.99 against $17.99, and Berry + Coconut Deep Cleansing Pet Shampoo 20oz also prints at $14.99 against $17.99.",
+     "condition": "Both rows read from the same grid with '$3.00 off' tags on the check date.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The site banners 'FREE Standard Shipping on Orders $22+'.",
+     "condition": "Header banner on the official collection page, read on the check date.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The homepage claims 'Loved by Millions of Pet Parents Since 1980' and '#1 in Pet Grooming + Dental'.",
+     "condition": "Marketing copy printed on TropiClean's own homepage on the check date - a brand claim, not independently verified here.",
+     "source_url": "https://www.tropiclean.com/",
+     "checked": "2026-09-30"
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How much does TropiClean shampoo cost?",
+     "a": "On 2026-09-30 the official shampoo collection printed $13.99 for a 20oz Oatmeal + Tea Tree Medicated Itch shampoo (was $16.99), $14.99 for 20oz Hypoallergenic Puppy & Kitten and Berry + Coconut shampoos (was $17.99), $16.99 for the 20oz Papaya + Coconut Shampoo & Conditioner (was $19.99) and $45.97 for the Dog Grooming Kit bundle (was $55.97).",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "How many TropiClean shampoos are there?",
+     "a": "The official collection printed '73 results' on 2026-09-30, filterable by pet (cats 21 / dogs 25 shown in the filter rail) and by scent family.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Does TropiClean ship free?",
+     "a": "The site banner prints 'FREE Standard Shipping on Orders $22+' - a $22 minimum on the check date. Standard shipping is the free tier named in that banner.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Are TropiClean prices discounted?",
+     "a": "The shampoo grid printed sale prices with struck-through regular prices and '$3.00 off' / '$10.00 off' tags on 2026-09-30, so the printed sale price was the live price that day. Promotions change - check the page before buying.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Is there a TropiClean line for puppies and cats?",
+     "a": "Yes - the collection printed a Hypoallergenic Puppy & Kitten Shampoo 20oz at $14.99 (was $17.99) and cat-specific rows in the same grid on 2026-09-30, alongside dog shampoos.",
+     "source_url": "https://www.tropiclean.com/collections/shampoos",
+     "checked": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": "chris-christensen",
+   "name": "Chris Christensen",
+   "slug": "chris-christensen",
+   "official_site": "https://www.chrischristensen.com/",
+   "quote_url": "https://www.chrischristensen.com/collections/brushes",
+   "short_answer": "Chris Christensen sells its professional brushes direct from its own Shopify store: the brushes collection printed $24.00 for a Tiny Tot Wood Pin Brush up to from $72.50 for Andreas Brushes on 2026-09-30, with stock counts beside every item and a banner reading 'Free Shipping on orders over $50. Was $100. Use Code: FREESHIP50.'",
+   "price_line": "$24.00 – $72.50+",
+   "price_condition": "Lowest fixed price and highest 'from' price printed in the brushes collection on 2026-09-30; several brushes are sold in multiple sizes so their listing price is a 'from' price.",
+   "price_source": "https://www.chrischristensen.com/collections/brushes",
+   "facts": [
+    {
+     "fact": "The Tiny Tot Wood Pin Brush prints at $24.00 - the lowest brush price in the collection read.",
+     "condition": "Fixed price with a stock count printed beside it on the check date.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The Powder and Chalk Brush prints at $27.50, the Original Series Little Wonder Pin Brush at $32.00, the Natural Boar Bristle Brush at $34.50 and the Original Series T-Brush from $35.50.",
+     "condition": "Prices as printed in the brushes grid; 'from' means the item is offered in more than one size.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Original Series Oval Pin Brushes print from $37.00, Gold Series Oval Pin Brushes from $48.50, and Oblong and Tiny Tot wood pin brushes print at $45.00 and $24.00 respectively.",
+     "condition": "Grid prices on the check date; the Original Series Oval listing showed a 108-unit stock line.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Fusion Oval Pin Brushes print from $69.50 and carry a 'BEST SELLER' tag; Fusion Oblong and Fusion Pocket pin brushes print at $56.50 each.",
+     "condition": "Prices and tag as printed on the check date.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The Terrier Palm Pad prints at $61.00 and Andreas Brushes from $72.50 - the highest price in the brushes collection read.",
+     "condition": "Prices as printed on the check date.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The site banner prints 'Free Shipping on orders over $50. Was $100. Use Code: FREESHIP50.'",
+     "condition": "Banner text read on the check date: the $50 threshold requires the code, and the site states the previous threshold was $100.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "Every brush row prints a review score and a stock line, e.g. the Original Series Oval Pin Brushes showed 72 reviews and 108 in stock, while the Original Series T-Brush showed 'Only 20 left!' on the check date.",
+     "condition": "Stock and review counts are printed live by the store and change over time.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How much do Chris Christensen brushes cost?",
+     "a": "On 2026-09-30 the official brushes collection printed $24.00 for the Tiny Tot Wood Pin Brush, $27.50 for the Powder and Chalk Brush, $32.00-$45.00 for Original Series and wood pin brushes, from $37.00 for Original Series Oval Pin Brushes, $56.50 for Fusion Oblong and Pocket brushes, $61.00 for the Terrier Palm Pad, from $69.50 for Fusion Oval Pin Brushes and from $72.50 for Andreas Brushes.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Why do some brushes show a 'from' price?",
+     "a": "Because the store sells those brushes in several sizes: the listing prints 'from $37.00' (Original Series Oval), 'from $69.50' (Fusion Oval) or 'from $72.50' (Andreas) rather than one figure - the size you pick sets the final price, as printed on the check date.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Does chrischristensen.com ship free?",
+     "a": "The banner prints 'Free Shipping on orders over $50. Was $100. Use Code: FREESHIP50.' - so on 2026-09-30 the $50 threshold applied with that code, and the site itself says the previous threshold was $100.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Are Chris Christensen brushes in stock?",
+     "a": "The collection printed a stock line for every item read on 2026-09-30 - for example 108 in stock for the Original Series Oval Pin Brushes and 'Only 20 left!' for the Original Series T-Brush. Stock counts change continuously.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What is the cheapest brush in the collection?",
+     "a": "The Tiny Tot Wood Pin Brush at $24.00 was the lowest price printed in the brushes collection on 2026-09-30, below the Powder and Chalk Brush at $27.50 and the Little Wonder Pin Brush at $32.00.",
+     "source_url": "https://www.chrischristensen.com/collections/brushes",
+     "checked": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": "xpower",
+   "name": "XPOWER",
+   "slug": "xpower",
+   "official_site": "https://www.xpower.com/",
+   "quote_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+   "short_answer": "XPOWER builds professional pet drying equipment - force dryers, stand dryers, cage dryers and retail pet dryers - and publishes the specifications but no prices: the B-123 High Velocity Pet Dryer page lists 220 CFM, a 4.5 hp motor, variable speed, 2-stage heat and an 8 ft hose, then routes buyers to 'WHERE TO BUY'. No dollar figure appeared on the page read 2026-09-30, so this site reports it as not published rather than guessing.",
+   "price_line": "not published",
+   "price_condition": "The official B-123 product page prints specifications and a 'WHERE TO BUY' link but no price; checked 2026-09-30.",
+   "price_source": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+   "facts": [
+    {
+     "fact": "The B-123 High Velocity Pet Dryer page lists 220 CFM of airflow, a single motor rated at 4.5 hp, variable speed control and 2-stage heat settings via an onboard heater element.",
+     "condition": "Specification bullets printed on the official product page, read on the check date.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The B-123 page lists an 8 ft hose with heat-guard hand grip, a 10 ft power cord, 12 amp draw, three included nozzles (round, flat and cone) and a dual filter setup.",
+     "condition": "Specification bullets on the same product page, read on the check date.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The page states the B-123 is ETL/CETL safety certified and meets OSHA safety requirements, and is available in Mint Green, Sky Blue and Pastel Pink.",
+     "condition": "Claims printed in the product's bullet list on the check date.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "No price is printed anywhere on the B-123 product page - the site's purchase step is a 'WHERE TO BUY' link.",
+     "condition": "The full page text was read on 2026-09-30 and contained no dollar figure, so the price is reported as not published on the official site.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "XPOWER's pet grooming line is split on its own site into force dryers (B-8, B-24, B-25, B-27), a stand dryer (B-16, B-16S), cage dryers (X-430TF+MDK, X-800TF-MDK) and retail pet dryers (B-2, B-55, B-53, B-123, B-163).",
+     "condition": "Model lists read from the official pet grooming category menu on the check date.",
+     "source_url": "https://www.xpower.com/pet-grooming/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The product description says the B-123 delivers '10x the power and air volume of human hair dryers' and can dry dense double coats on large breeds.",
+     "condition": "Brand marketing copy printed on the official product page, read on the check date - a manufacturer claim, not measured here.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The site header offers a 'WHERE TO BUY' step and a 'Warranty Registration' page instead of a cart on the pet product pages read.",
+     "condition": "Navigation structure printed on the check date: this manufacturer sells through dealers rather than taking orders on its own site.",
+     "source_url": "https://www.xpower.com/",
+     "checked": "2026-09-30"
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How much does an XPOWER pet dryer cost?",
+     "a": "Not published on the official site: the B-123 product page read on 2026-09-30 printed specifications but no price, and routes buyers to 'WHERE TO BUY'. This site does not estimate a figure the brand does not print - check with a dealer for current pricing.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What specifications does XPOWER publish for the B-123?",
+     "a": "220 CFM airflow, a 4.5 hp single motor, variable speed control, 2-stage heat settings, an 8 ft hose with heat-guard grip, a 10 ft power cord, 12 amps, three nozzles (round, flat, cone) and dual filters - all printed in the product bullets read on 2026-09-30.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What kinds of pet dryers does XPOWER make?",
+     "a": "Its own pet grooming menu lists force dryers (B-8, B-24, B-25, B-27), a stand dryer (B-16, B-16S), cage dryers (X-430TF+MDK, X-800TF-MDK) and retail pet dryers (B-2, B-55, B-53, B-123, B-163), read on 2026-09-30.",
+     "source_url": "https://www.xpower.com/pet-grooming/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Can I buy an XPOWER dryer directly on xpower.com?",
+     "a": "Not on the pages read: the pet product pages offer a 'WHERE TO BUY' step and the site offers warranty registration, with no cart or price on the B-123 page as of 2026-09-30.",
+     "source_url": "https://www.xpower.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Is the XPOWER B-123 safety certified?",
+     "a": "The product page states it is ETL/CETL safety certified and meets OSHA safety requirements - a statement made by the brand on its own site, read 2026-09-30.",
+     "source_url": "https://www.xpower.com/shop/xpower-b-123-high-velocity-pet-dryer-w-2-stage-heat-settings-and-variable-speed-4-5hp-220-cfm/",
+     "checked": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "id": "natures-miracle",
+   "name": "Nature's Miracle",
+   "slug": "natures-miracle",
+   "official_site": "https://www.naturesmiracle.com/",
+   "quote_url": "https://www.naturesmiracle.com/",
+   "short_answer": "Nature's Miracle publishes its grooming line - Shampoo & Conditioner, Odor Control Shampoo & Conditioner, Hypoallergenic Shampoo & Conditioner and Deodorizing Bath Wipes - but no prices: the official site sends buyers to 'WHERE TO BUY'. Read 2026-09-30, so this site records the price as not published rather than filling it in.",
+   "price_line": "not published",
+   "price_condition": "The official homepage lists the grooming products and a 'WHERE TO BUY' step but prints no prices; checked 2026-09-30.",
+   "price_source": "https://www.naturesmiracle.com/",
+   "facts": [
+    {
+     "fact": "The site's grooming section prints four product lines: Shampoo & Conditioner, Odor Control Shampoo & Conditioner, Hypoallergenic Shampoo & Conditioner and Deodorizing Bath Wipes.",
+     "condition": "Product-line names read from the official homepage's grooming block on the check date; each line has a short descriptor such as 'Ideal for dogs with sensitive skin'.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "No prices are printed anywhere on the homepage read - the purchase path is a 'WHERE TO BUY' link.",
+     "condition": "The full page text was read on 2026-09-30 and contained no dollar figure, so the price is reported as not published on the official site.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The site is organised into three sections: Stain & Odor, Grooming and Training Aids, each with a 'SHOP NOW' link.",
+     "condition": "Section structure printed in the homepage carousel on the check date.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The stain and odor section states use cases for urine messes, set-in stains and odors, everyday messes, virus disinfection and severe messes.",
+     "condition": "Category descriptions printed on the official homepage on the check date - the brand's own wording for what its formulas target.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The navigation offers PRODUCTS, WHERE TO BUY, FAQs and CONTACT US, with a United States region selector.",
+     "condition": "Header navigation read on the check date; there is no cart or store page in that navigation.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "fact": "The grooming block is headed 'Grooming Products FOR FRESH, CLEAN PETS' and describes at-home grooming solutions that keep pets looking and smelling fresh.",
+     "condition": "Brand copy printed on the official homepage on the check date - marketing wording, not an independently verified result.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    }
+   ],
+   "faqs": [
+    {
+     "q": "How much does Nature's Miracle grooming shampoo cost?",
+     "a": "Not published on the official site: the homepage read on 2026-09-30 listed the grooming lines but printed no price and directs buyers to 'WHERE TO BUY'. This site does not estimate a figure the brand does not print.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What grooming products does Nature's Miracle list?",
+     "a": "Four lines on the official homepage: Shampoo & Conditioner, Odor Control Shampoo & Conditioner, Hypoallergenic Shampoo & Conditioner (described as ideal for dogs with sensitive skin) and Deodorizing Bath Wipes for freshening a coat between baths - read 2026-09-30.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Where can I buy Nature's Miracle products?",
+     "a": "The official site does not sell direct on the pages read - it prints a 'WHERE TO BUY' step in its navigation, plus FAQs and Contact Us, as of 2026-09-30.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "What else does the brand cover besides grooming?",
+     "a": "Its homepage is split into three sections: Stain & Odor (urine messes, set-in stains, everyday messes, virus disinfection, severe messes), Grooming, and Training Aids - the brand's own structure as printed on 2026-09-30.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    },
+    {
+     "q": "Is the Hypoallergenic line for sensitive skin?",
+     "a": "The brand's own descriptor on the homepage reads 'Ideal for dogs with sensitive skin' for its Hypoallergenic Shampoo & Conditioner - that is Nature's own claim as printed on 2026-09-30, not a clinical result.",
+     "source_url": "https://www.naturesmiracle.com/",
+     "checked": "2026-09-30"
+    }
+   ]
+  }
+ ]
+}
